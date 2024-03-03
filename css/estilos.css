@@ -6,6 +6,14 @@ body
 
 }
 
+header{
+    color: red;
+    font-size: large;
+    font-family: monospace;
+}
+
 footer{
-    color: blue
+    color: blue;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
 }
